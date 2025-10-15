@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TravelJournal</string>
+    <string name="default_web_client_id">62939137999-064ss0dmogcfj2oo67r9u2cvk6qepfrq.apps.googleusercontent.com</string>
+    <string name="server_client_id">62939137999-064ss0dmogcfj2oo67r9u2cvk6qepfrq.apps.googleusercontent.com</string>
+</resources>
